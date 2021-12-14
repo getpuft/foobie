@@ -1,1 +1,4 @@
-{}
+{
+  "name": "foobs",
+  "postCreateCommand": "touch jefftest"
+}
