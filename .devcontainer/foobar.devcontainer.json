@@ -1,4 +1,10 @@
 {
   "name": "foobs",
+  "build": {
+        "dockerfile": "Dockerfile",
+        "args": {
+            "VARIANT": "focal"
+        }
+   },
   "postCreateCommand": "touch jefftest"
 }
