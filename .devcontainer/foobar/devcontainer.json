@@ -1,7 +1,7 @@
 {
   "name": "foobs",
   "build": {
-        "dockerfile": ".devcontainer/foobar/Dockerfile",
+        "dockerfile": "foobar/Dockerfile",
         "args": {
             "VARIANT": "focal"
         }
