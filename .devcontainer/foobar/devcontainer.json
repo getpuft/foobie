@@ -6,5 +6,5 @@
             "VARIANT": "focal"
         }
    },
-  "postCreateCommand": "touch jefftest"
+  "postCreateCommand": "sh test.sh"
 }
