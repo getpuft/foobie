@@ -9,6 +9,12 @@
 				"permissions": {
 					"contents": "read"
 				}
+			},
+			{
+				"name": "getpuft/blocka",
+				"permissions": {
+					"contents": "read"
+				}
 			}
 		]
 	}
