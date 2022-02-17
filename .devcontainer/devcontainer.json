@@ -5,9 +5,10 @@
 				"permissions": "write-all"
 			},
 			{
-				"name": "getpuft/privtest",
+				"name": "getpuft/blocka",
 				"permissions": {
-					"contents": "read"
+					"contents": "read",
+					"issues": "read"
 				}
 			}
 		]
