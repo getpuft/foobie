@@ -7,8 +7,7 @@
 			{
 				"name": "getpuft/blocka",
 				"permissions": {
-					"contents": "read",
-					"issues": "read"
+					"packages": "read"
 				}
 			}
 		]
