@@ -1,18 +1,19 @@
 {
 	"codespaces": {
-		"repositories": [{
-				"name": "getpuft/flavortown",
-				"permissions": {
-					"contents": "read"
-				}
-			},
-			{
-				"name": "getpuft/blocka",
-				"permissions": {
-					"packages": "read",
-					"contents": "read"
-				}
-			}
+		"repositories": [
+// 			{
+// 				"name": "getpuft/flavortown",
+// 				"permissions": {
+// 					"contents": "read"
+// 				}
+// 			},
+// 			{
+// 				"name": "getpuft/blocka",
+// 				"permissions": {
+// 					"packages": "read",
+// 					"contents": "read"
+// 				}
+// 			}
 		]
 	}
 }
