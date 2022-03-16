@@ -2,7 +2,7 @@
 	"codespaces": {
 		"repositories": [{
 				"name": "getpuft/flavortown",
-				"permissions": "write-all"
+				"permissions": "read-all"
 			},
 			{
 				"name": "getpuft/blocka",
