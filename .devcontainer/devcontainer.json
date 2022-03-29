@@ -1,5 +1,5 @@
 {
-  "postCreateCommand": "touch devcontainerdevcontainer
+  "postCreateCommand": "touch devcontainerdevcontainer"
 // 	"codespaces": {
 // 		"repositories": [
 // 			{
