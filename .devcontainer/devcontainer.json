@@ -1,4 +1,5 @@
 {
+  "postCreateCommand": "touch devcontainerdevcontainer
 // 	"codespaces": {
 // 		"repositories": [
 // 			{
