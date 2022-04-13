@@ -1,20 +1,20 @@
 {
-  "postCreateCommand": "touch devcontainerdevcontainer"
-// 	"codespaces": {
-// 		"repositories": [
-// 			{
-// 				"name": "getpuft/flavortown",
-// 				"permissions": {
-// 					"contents": "read"
-// 				}
-// 			},
-// 			{
-// 				"name": "getpuft/blocka",
-// 				"permissions": {
-// 					"packages": "read",
-// 					"contents": "read"
-// 				}
-// 			}
-//		]
-// 	}
+  "postCreateCommand": "touch devcontainerdevcontainer",
+	"customizations": {
+    "codespaces": {
+      "repositories": {
+        "getpuft/flavortown": {
+          "permissions": {
+            "contents": "read"
+          }
+        },
+        "getpuft/blocka": {
+            "permissions": {
+                "packages": "read",
+                "contents": "read"
+            }
+        }
+      }
+    }
+  }
 }
